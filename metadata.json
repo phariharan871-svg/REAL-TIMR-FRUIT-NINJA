@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Ninja AR - Hand Gesture Blade",
+  "description": "Slice flying fruits in real time using webcam hand and finger tracking, combos, juicy particle physics, and sound effects.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
